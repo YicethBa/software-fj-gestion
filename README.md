@@ -58,8 +58,4 @@ Desarrollo individual organizado en **5 módulos** equivalentes a integrantes:
 
 Cada módulo: issue asignado → rama → commits descriptivos → pull request → merge a `main`.
 
-Ver [GITHUB_GUIA.md](GITHUB_GUIA.md) para el proceso completo.
 
-## Servicios: clases + catálogo
-
-Las clases `ReservaSala`, `AlquilerEquipo` y `AsesoriaEspecializada` son obligatorias por POO del anexo. El archivo `catalogo_servicios.py` separa los **datos del catálogo** (listas de diccionarios) de la **lógica** (fábrica `construir_servicio`), evitando repetir bloques if/elif en la interfaz.
