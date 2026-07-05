@@ -45,7 +45,6 @@ python main.py --demo
 | RF-10 | Estadísticas del sistema |
 | RF-11 | Interfaz Tkinter completa |
 
-## Estrategia GitHub (nivel alto — 5 módulos)
 
 Desarrollo individual organizado en **5 módulos** equivalentes a integrantes:
 
