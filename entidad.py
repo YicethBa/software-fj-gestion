@@ -1,5 +1,5 @@
 """
-Clase abstracta base del dominio Software FJ.
+Clase abstracta
 Define identificador, fecha de creación y estado activo compartidos por entidades.
 """
 
