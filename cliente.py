@@ -8,7 +8,7 @@ import re
 from entidad import Entidad
 from excepciones import ClienteInvalidoError, ParametroFaltanteError
 
-# Cédula de ciudadanía (Colombia): numérica, entre 6 y 10 dígitos
+# Documento de identidad numérica, entre 6 y 10 dígitos
 DOCUMENTO_MIN_DIGITOS = 6
 DOCUMENTO_MAX_DIGITOS = 10
 
