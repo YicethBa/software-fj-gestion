@@ -1,5 +1,5 @@
 """
-Jerarquía de excepciones del sistema Software FJ.
+Jerarquía de excepciones
 Permite distinguir errores de validación, operación y cálculo.
 """
 
